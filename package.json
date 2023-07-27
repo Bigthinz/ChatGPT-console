@@ -1,0 +1,13 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "openai": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
